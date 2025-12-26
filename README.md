@@ -1,1 +1,4 @@
-# mergingconflict
+# Developer B changes 
+
+
+
